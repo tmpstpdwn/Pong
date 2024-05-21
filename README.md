@@ -23,13 +23,13 @@ This project is a recreation of the popular pong game, developed using Python an
 ## Screenshots
 
 ### After the game is launched
-![Gameplay Screenshot](assets/screenshots/start.png)
+![Gameplay Screenshot](ascreenshots/start.png)
 
 ### During gameplay
-![Gameplay Screenshot](assets/screenshots/gameplay.png)
+![Gameplay Screenshot](screenshots/gameplay.png)
 
 ### Game over
-![Gameplay Screenshot](assets/screenshots/gameover.png)
+![Gameplay Screenshot](screenshots/gameover.png)
 
 ## Installation
 
