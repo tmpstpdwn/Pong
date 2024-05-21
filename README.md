@@ -1,6 +1,6 @@
-# FloopyBirdy
+# PONG
 
-![FloopyBirdy Screenshot](logo.png)
+![PONG logo](logo.png)
 
 A simple clone pong game implemented in Python using the Pygame library.
 
