@@ -8,10 +8,9 @@ A simple clone pong game implemented in Python using the Pygame library.
 
 - [Description](#description)
 - [Screenshots](#screenshots)
+- [Dependencies](#dependencies) 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Whats New?](#whats-new)
-- [Dependencies](#dependencies) 
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -31,12 +30,17 @@ This project is a recreation of the popular pong game, developed using Python an
 ### Game over
 ![Gameplay Screenshot](screenshots/gameover.png)
 
+## Dependencies
+
+- `python3` is required
+- `pygame` is the only external package required to installed if not already installed
+
 ## Installation
 
-- Clone this repo using the command `git clone https://github.com/tmpstpdwn/Pong` on you terminal or cmd
+- Clone this repo using the command `git clone https://github.com/tmpstpdwn/Pong` on you terminal.
 - open the folder `Pong` and just run `main.py` file. 
-- thats it
-- Enjoy
+- thats it.
+- Enjoy.
 
 ## usage 
 
@@ -47,18 +51,6 @@ This project is a recreation of the popular pong game, developed using Python an
 - NOTE: in the `AI` mode only right paddle can be controlled by the user using the keys specifed above.
 - The game will go on until any of the 2 player scores 10 points.
 - the objective of the game is to not let the ball go outside the court.
-
-## Whats new?
-
-- Nothing.
-
-## Dependencies
-
-- `python3` is required
-- `pygame` is the only external package required to installed if not already installed
-- Other packages used are part of the standard library such as
-    - `random`
-    - `os`
 
 ## Contributing
 
